@@ -536,14 +536,22 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.mt-4{
+  margin-top: 1rem;
+}
+
+.ml-4{
+  margin-left: 1rem;
+}
+
 .bg-danger{
   --tw-bg-opacity: 1;
   background-color: rgb(255 95 64 / var(--tw-bg-opacity));
 }
 
-.bg-info-100{
+.bg-info-200{
   --tw-bg-opacity: 1;
-  background-color: rgb(36 161 156 / var(--tw-bg-opacity));
+  background-color: rgb(110 191 181 / var(--tw-bg-opacity));
 }
 
 .font-rale{
